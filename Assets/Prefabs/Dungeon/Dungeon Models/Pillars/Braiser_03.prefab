@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4102955063052994241}
   - component: {fileID: 4438730437129852523}
   - component: {fileID: 4004007961404840051}
+  - component: {fileID: 2705797506600713897}
   m_Layer: 0
   m_Name: Braiser_03
   m_TagString: Untagged
@@ -83,3 +84,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &2705797506600713897
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4564405367544595464}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.4425175, y: 1.9074893, z: 1.4427553}
+  m_Center: {x: 0.0008312464, y: 1.130651, z: -0.0009199977}

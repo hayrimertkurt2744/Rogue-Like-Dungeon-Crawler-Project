@@ -15,7 +15,7 @@ public static class HelperUtilities
         }
         return false;
     }
-    public static bool ValidateCheckEnumarableValues(Object thisObject, string fieldName, IEnumerable enumerableObjectToCheck)
+    public static bool ValidateCheckEnumerableValues(Object thisObject, string fieldName, IEnumerable enumerableObjectToCheck)
     {
         bool error = false;
         int count = 0;

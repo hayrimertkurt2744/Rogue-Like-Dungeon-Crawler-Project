@@ -2547,7 +2547,7 @@ GameObject:
   - component: {fileID: 7943461171499582039}
   - component: {fileID: -574122396074474783}
   m_Layer: 0
-  m_Name: Run (1)
+  m_Name: Animation Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
